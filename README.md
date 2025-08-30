@@ -53,12 +53,12 @@ El modelo obtuvo un **R² ≈ 0.0**, indicando que las variables disponibles **n
 
 - Clasificación de Fármacos  
   👉 Abrir en Google Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mau-lozada/Decision-Trees-in-Machine-Learning-Classification-Regression-/blob/main/Decision_drugTree_.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mau-lozada/Decision-Trees-in-Machine-Learning-Classification-Regression-/blob/main/Decision_drugTree.ipynb)
 
 ---
 - Regresión de Propinas NYC  
  👉 Abrir en Google Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mau-lozada/Decision-Trees-in-Machine-Learning-Classification-Regression-/blob/main/Decision_taxiTree_.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mau-lozada/Decision-Trees-in-Machine-Learning-Classification-Regression-/blob/main/Decision_taxiTree.ipynb)
 
 ---
 
