@@ -49,11 +49,14 @@ El modelo obtuvo un **R² ≈ 0.0**, indicando que las variables disponibles **n
 - Matplotlib / Seaborn  
 
 ---
-###  Acceso rápido a notebooks
-| Proyecto | Descripción |
-|----------|-------------|
-| [Clasificación de Fármacos](./Decision_drugTree_.ipynb) | Árbol de decisión para clasificación multiclase de medicamentos. |
-| [Regresión de Propinas (NYC)](./Decision_taxiTree.ipynb) | Árbol de regresión para predecir la propina en base a características del viaje. |
+## Notebooks en Google Colab
+
+- Clasificación de Fármacos  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mau-lozada/Decision-Trees-in-Machine-Learning-Classification-Regression-/blob/main/Decision_drugTree_.ipynb)
+
+- Regresión de Propinas NYC  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mau-lozada/Decision-Trees-in-Machine-Learning-Classification-Regression-/blob/main/Decision_taxiTree.ipynb)
+
 
 ---
 
