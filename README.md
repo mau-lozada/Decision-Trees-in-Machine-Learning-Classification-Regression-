@@ -29,7 +29,7 @@ El modelo alcanzó una **precisión del 98%**, mostrando que los árboles de dec
 - Gráfica de dispersión entre valores reales y predichos para visualizar la calidad del ajuste.  
 
 📌 **Resultados:**  
-El modelo obtuvo un **R² ≈ 0.0**, indicando que las variables disponibles **no explican bien la variabilidad de las propinas**. Esto refleja la naturaleza altamente aleatoria del problema (las propinas dependen de factores externos no capturados en los datos, como comportamiento del pasajero o servicio del conductor).  
+El modelo obtuvo un **R² ≈ 0.0024**, indicando que las variables disponibles **no explican bien la variabilidad de las propinas**. Esto refleja la naturaleza altamente aleatoria del problema (las propinas dependen de factores externos no capturados en los datos, como comportamiento del pasajero o servicio del conductor).  
 
 ---
 
